@@ -1,3 +1,4 @@
+# Record-transcribe-and-summarize
 # 🎙️ Transcribe Audio
 
 **Local-first meeting transcription & AI summarization for Windows.**
@@ -56,7 +57,7 @@ Record your meetings, get a full transcript and structured AI summary — all ru
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/transcribe-audio.git
+git clone https://github.com/philp97/transcribe-audio.git
 cd transcribe-audio
 ```
 
