@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# App runtime data
+meetings/*.json
+temp/
+*.wav
+*.webm
+
+# FFmpeg binaries (too large for git — download separately)
+ffmpeg.exe
+ffprobe.exe
+
+# PortAudio binaries
+portaudio/*.dll
+portaudio/*.lib
+portaudio/*.exp
+
+# Whisper model cache
+*.pt
