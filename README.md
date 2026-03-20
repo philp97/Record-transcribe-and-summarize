@@ -68,7 +68,7 @@ Place `ffmpeg.exe` and `ffprobe.exe` in the project root. You can download a sta
 ### 3. Start Ollama
 
 ```bash
-ollama pull qwen3.5:9b
+ollama pull qwen3.5:9b # or any other model you prefer
 ollama serve
 ```
 
